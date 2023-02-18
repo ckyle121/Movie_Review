@@ -3,8 +3,12 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-!**/src/main/resources/application.properties
-src/main/resources/application.properties
+
+Movie_Review/src/main/resources/application.properties
+C:\Users\carol\Downloads\movies.zip\movies\src\main\resources\application.properties
+src/main/resources/*.properties
+*.properties
+.application.properties
 
 ### STS ###
 .apt_generated
